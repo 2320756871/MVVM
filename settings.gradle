@@ -1,0 +1,11 @@
+rootProject.name = "teachers_mvvm"
+include ':app'
+include ':MVPCore'
+include ':apt-router-annotation'
+include ':apps'
+include ':apt-router-processor'
+include ':MVVMCore'
+include ':Common'
+include ':MsgBus'
+include ':ZRouter'
+include ':Logger'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="teachers_mvvm.app" target="11" />
+      <module name="teachers_mvvm.apps" target="11" />
+      <module name="teachers_mvvm.Common" target="11" />
+      <module name="teachers_mvvm.Logger" target="11" />
+      <module name="teachers_mvvm.MsgBus" target="11" />
+      <module name="teachers_mvvm.MVPCore" target="11" />
+      <module name="teachers_mvvm.MVVMCore" target="11" />
+      <module name="teachers_mvvm.ZRouter" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
